@@ -17,5 +17,4 @@ Hello, I'm a full stack developer from Taiwan 🇹🇼. I've been coding for 30 
 
 <!-- ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mutsuntsai&hide_border=true&show_icons=true&theme=tokyonight&role=owner,collaborator,organization_member) -->
 
-![](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=mutsuntsai&include_orgs=true&hide_border=true&show_icons=true&theme=tokyonight&card_width=400)\
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MuTsunTsai&role=owner,collaborator,organization_member&show_icons=true&theme=tokyonight&hide_border=true&layout=compact&langs_count=14&hide=rich+text+format,visual+basic+6.0&card_width=400&count_weight=0.5)
+<img src="https://github-readme-stats.vercel.app/api?username=mutsuntsai&hide_border=true&show_icons=true&theme=tokyonight&show=prs_merged,prs_merged_percentage&card_width=400" height="270"> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MuTsunTsai&role=owner,collaborator,organization_member&show_icons=true&theme=tokyonight&hide_border=true&layout=compact&langs_count=14&hide=rich+text+format,visual+basic+6.0&card_width=300&count_weight=0.5" height="270">
